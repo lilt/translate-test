@@ -1,0 +1,17 @@
+
+{
+    "resetInstructions": "Introduzca su dirección de correo electrónico a continuación para recibir un correo electrónico con instrucciones de reinicio de contraseña.",
+    "resetPasswordButton": "Solicito el restablecimiento de contraseña",
+    "wrongPassword": "Su contraseña es incorrecta.",
+    "forgotPassword": "Olvidé mi contraseña",
+    "forgotPasswordModalTitle": "¿Olvidó tu contraseña?",
+    "minimumCharacters": "Por favor, introduzca al menos 8 caracteres.",
+    "passwordMismatch": "La contraseña no coincide con la confirmación.",
+    "passwordStrengthLabels": {
+        "Poor": "Pobrecito",
+        "Weak": "Etapa",
+        "Moderate": "Moderado",
+        "Strong": "Fuerte",
+        "Great": "Genial."
+    }
+}
