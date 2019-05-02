@@ -1,0 +1,17 @@
+
+{
+    "resetInstructions": "a",
+    "resetPasswordButton": "a",
+    "wrongPassword": "a",
+    "forgotPassword": "a",
+    "forgotPasswordModalTitle": "a",
+    "minimumCharacters": "a",
+    "passwordMismatch": "a",
+    "passwordStrengthLabels": {
+        "Poor": "a",
+        "Weak": "a",
+        "Moderate": "a",
+        "Strong": "a",
+        "Great": "a"
+    }
+}
